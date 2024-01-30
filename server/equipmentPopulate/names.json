@@ -1,0 +1,97 @@
+{
+  "Elektronik": {
+    "Laptop": ["Notebook", "Ultrabook", "Gaming-Laptop", "Convertible"],
+    "Drucker": ["Laserdrucker", "Tintenstrahldrucker", "All-in-One-Drucker"],
+    "Monitor": ["LED-Monitor", "Curved-Monitor", "4K-Monitor"],
+    "Tastatur": [
+      "Mechanische Tastatur",
+      "Wireless-Tastatur",
+      "Gaming-Tastatur"
+    ],
+    "Maus": ["Kabellose Maus", "Gaming-Maus", "Trackball-Maus"],
+    "Scanner": ["Flachbettscanner", "Dokumentenscanner", "Film-Scanner"],
+    "Projektor": ["DLP-Projektor", "LCD-Projektor", "HD-Projektor"],
+    "Smartphone": [
+      "Android-Smartphone",
+      "iOS-Smartphone",
+      "Windows-Smartphone"
+    ],
+    "Tablet": ["Android-Tablet", "iOS-Tablet", "Windows-Tablet"],
+    "Festplatte": ["HDD", "SSD", "NVMe-SSD"],
+    "Router": ["Wireless-Router", "Mesh-Router", "Gigabit-Router"],
+    "Switch": ["Managed-Switch", "Unmanaged-Switch", "PoE-Switch"],
+    "Kamera": ["DSLR-Kamera", "Spiegellose Kamera", "Action-Kamera"],
+    "Mikrofon": [
+      "Kondensatormikrofon",
+      "Dynamisches Mikrofon",
+      "Lavaliermikrofon"
+    ],
+    "Lautsprecher": [
+      "Bluetooth-Lautsprecher",
+      "Smart-Lautsprecher",
+      "PC-Lautsprecher"
+    ],
+    "Headset": [
+      "Gaming-Headset",
+      "Wireless-Headset",
+      "Noice-Cancelling-Headset"
+    ],
+    "Fernseher": ["LED-Fernseher", "OLED-Fernseher", "4K-Fernseher"]
+  },
+  "Werkzeuge": {
+    "Hammer": ["Klauenhammer", "Vorschlaghammer", "Abbruchhammer"],
+    "Schraubenzieher": [
+      "Schlitzschraubenzieher",
+      "Kreuzschlitzschraubenzieher",
+      "Torx-Schraubenzieher"
+    ],
+    "Bohrmaschine": ["Schlagbohrmaschine", "Akkubohrmaschine", "Bohrhammer"],
+    "Säge": ["Kreissäge", "Stichsäge", "Bandsäge"],
+    "Zange": ["Kombizange", "Wasserpumpenzange", "Spitzzange"],
+    "Wasserwaage": ["Libelle", "Digitalwasserwaage", "Laserwasserwaage"],
+    "Schrauben": ["Holzschrauben", "Metallschrauben", "Selbstbohrschrauben"],
+    "Nägel": ["Holznägel", "Stahlnägel", "Drahtnägel"],
+    "Schleifmaschine": [
+      "Winkelschleifer",
+      "Exzenterschleifer",
+      "Bandschleifer"
+    ],
+    "Schneidemaschine": ["Kreisschneider", "Blechschere", "Rohrschneider"]
+  },
+  "Küchengeräte": {
+    "Kühlschrank": [
+      "Side-by-Side-Kühlschrank",
+      "Einbaukühlschrank",
+      "Minikühlschrank"
+    ],
+    "Mikrowelle": ["Solo-Mikrowelle", "Kombi-Mikrowelle", "Grill-Mikrowelle"],
+    "Geschirrspüler": [
+      "Freistehender Geschirrspüler",
+      "Einbau-Geschirrspüler",
+      "Unterbau-Geschirrspüler"
+    ],
+    "Herd": ["Elektroherd", "Gasherd", "Induktionsherd"],
+    "Toaster": [
+      "Langschlitztoaster",
+      "Toaster mit Brötchenaufsatz",
+      "Sandwichtoaster"
+    ],
+    "Mixer": ["Standmixer", "Stabmixer", "Smoothie-Mixer"],
+    "Kaffeemaschine": [
+      "Filterkaffeemaschine",
+      "Espressomaschine",
+      "Kapselmaschine"
+    ],
+    "Wasserkocher": [
+      "Edelstahl-Wasserkocher",
+      "Glas-Wasserkocher",
+      "Retro-Wasserkocher"
+    ],
+    "Backofen": ["Einbaubackofen", "Mikrowellenbackofen", "Kombibackofen"],
+    "Eismaschine": [
+      "Eismaschine mit Kompressor",
+      "Manuelle Eismaschine",
+      "Soft-Eismaschine"
+    ]
+  }
+}
